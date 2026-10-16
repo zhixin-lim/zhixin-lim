@@ -5,9 +5,8 @@ Data Science & Analytics graduate from NUS. I like finding problems in data and 
 ---
 
 ### Projects
-
-[**CanSettle**](https://github.com/zhixin-lim/cansettle) · [Backend](https://github.com/zhixin-lim/cansettle-backend)
-Building a one-time group settlement tool that goes beyond splitting individual bills. CanSettle aims to bring multiple bills, shared items and payments from different people into one transparent settlement workflow, with the goal of reducing manual calculations and unnecessary transfers. Live application; work in progress.
+[**CanSettle**](https://github.com/zhixin-lim/cansettle) · [Backend](https://github.com/zhixin-lim/cansettle-backend)<br>
+Building a one-time group settlement tool that goes beyond splitting individual bills. CanSettle aims to bring multiple bills, shared items and payments from different people into one transparent settlement workflow, with the goal of reducing manual calculations and unnecessary transfers. Live application; work in progress.<br>
 `Product Thinking` `AI-Assisted Development` `Full-Stack Development`
 
 [**Singapore Retail Analysis**](https://github.com/zhixin-lim/singapore-retail-analysis)  
