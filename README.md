@@ -14,7 +14,7 @@ Building a group settlement tool that brings multiple bills, shared items and pa
 Explored Singapore's retail sales trends in Tableau, comparing category-level performance over time to identify shifts in retail activity and highlight potential business implications.  
 `Tableau` `Data Visualisation` `Business Analytics`
 
-[**Netflix Content Dashboard | Tableau**](https://github.com/zhixin-lim/netflix-content-dashboard)  
+[**Netflix Content Dashboard**](https://github.com/zhixin-lim/netflix-content-dashboard)  
 Built an interactive Tableau dashboard to explore Netflix's movie and TV show catalogue across content ratings, genres, production countries and release years, with title-level details.  
 `Tableau` `Data Visualisation` `Dashboard Design`
 
