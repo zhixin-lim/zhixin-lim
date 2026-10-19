@@ -5,26 +5,31 @@ Data Science & Analytics graduate from NUS. I like finding problems in data and 
 ---
 
 ### Projects
-[**CanSettle**](https://github.com/zhixin-lim/cansettle) · [Backend](https://github.com/zhixin-lim/cansettle-backend)<br>
-Building a one-time group settlement tool that goes beyond splitting individual bills. CanSettle aims to bring multiple bills, shared items and payments from different people into one transparent settlement workflow, with the goal of reducing manual calculations and unnecessary transfers. Live application; work in progress.<br>
+
+[**CanSettle**](https://github.com/zhixin-lim/cansettle) · [Backend](https://github.com/zhixin-lim/cansettle-backend)  
+Building a group settlement tool that brings multiple bills, shared items and payments from different people into one transparent workflow, with the goal of reducing manual calculations and unnecessary transfers. Live application; work in progress.  
 `Product Thinking` `AI-Assisted Development` `Full-Stack Development`
 
 [**Singapore Retail Analysis**](https://github.com/zhixin-lim/singapore-retail-analysis)  
-Analysed Singapore's retail sales trends using Tableau, comparing performance across retail categories over time to surface shifts in consumer spending and identify business-relevant insights.  
+Explored Singapore's retail sales trends in Tableau, comparing category-level performance over time to identify shifts in retail activity and highlight potential business implications.  
 `Tableau` `Data Visualisation` `Business Analytics`
 
+[**Netflix Content Dashboard | Tableau**](https://github.com/zhixin-lim/netflix-content-dashboard)  
+Built an interactive Tableau dashboard to explore Netflix's movie and TV show catalogue across content ratings, genres, production countries and release years, with title-level details.  
+`Tableau` `Data Visualisation` `Dashboard Design`
+
 [**Student Wellbeing Risk Platform**](https://github.com/zhixin-lim/student-wellbeing-ml-platform)  
-Built a Random Forest classifier to predict student mental health risk, with SHAP explainability and a React + FastAPI dashboard for teachers to act on predictions.  
+Built a Random Forest classifier to estimate student mental health risk, with SHAP explainability and a React + FastAPI dashboard to support teacher review.  
 `Python` `scikit-learn` `SHAP` `FastAPI` `React`
 
 [**Stress Detection in Reddit Posts**](https://github.com/zhixin-lim/DSA4262)  
-Compared three NLP approaches (LIWC features, TF-IDF, DistilBERT) for classifying stress in social media text. Fine-tuned DistilBERT achieved F1 = 0.82. Includes error analysis and a deployment risk assessment for real-world mental health triage.  
+Compared three NLP approaches — LIWC features, TF-IDF and DistilBERT — for classifying stress in social media text. Fine-tuned DistilBERT achieved an F1 score of 0.82. Includes error analysis and a deployment risk assessment for mental health triage.  
 `Python` `DistilBERT` `scikit-learn` `LIWC`
 
 [**Gameplan**](https://github.com/zhixin-lim/gameplan)  
-A Chrome extension I built to solve my own focus problem — task management and a Pomodoro-style timer in one minimal popup.  
+Built a Chrome extension to address my own focus challenges, combining task management and a Pomodoro-style timer in a minimal popup.  
 `JavaScript` `Chrome Extensions API`
 
 [**Epidemic Parameter Inference on Adaptive Networks**](https://github.com/zhixin-lim/epidemic-parameter-inference-abc)  
-Used Rejection ABC and ABC-SMC to jointly infer infection and rewiring rates on an adaptive network epidemic model. Found that the β–ρ correlation is a structural non-identifiability — no sampler can resolve it without more informative data.  
+Used Rejection ABC and ABC-SMC to jointly infer infection and rewiring rates in an adaptive network epidemic model. Identified a structural non-identifiability between the two parameters that cannot be resolved by the inference method alone without more informative data.  
 `Python` `Approximate Bayesian Computation` `Sequential Monte Carlo`
